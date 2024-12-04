@@ -1,0 +1,3 @@
+[submodule "lab-tuple-dict-sets"]
+	path = lab-tuple-dict-sets
+	url = https://github.com/JorgeLlorente/lab-tuple-dict-sets.git
